@@ -62,12 +62,6 @@ namespace Sokoban
                 player.Left += player.Width;
             }
         }
-
-
-        
-
-        
-
         private void ВключитьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Sound.MoveSoundPlayON();
